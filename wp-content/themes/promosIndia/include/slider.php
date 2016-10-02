@@ -8,7 +8,7 @@
             <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
                 <div class="sl-slide-inner">
                     <div class="container">
-                        <img class="pull-right" src="<?php echo get_bloginfo('template_url') ?>/images/sample/slider/img1.png" alt="" />
+                        <img class="pull-right" src="<?php echo get_bloginfo('template_url')?>/images/sample/slider/img1.png" alt="" />
                         <h2>Creative Ideas</h2>
                         <h3 class="gap">Tincidunt condimentum eros</h3>
                         <a class="btn btn-large btn-transparent" href="#">Learn More</a>
